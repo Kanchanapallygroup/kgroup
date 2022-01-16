@@ -4,6 +4,7 @@ function App() {
   return (
     <>
       <h1>Welcome to Kanchanapally Groups</h1>
+      <p>Thanks</p>
     </>
   );
 }
